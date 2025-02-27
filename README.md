@@ -1,10 +1,10 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
 # MVTec Anomaly Detection Project
 [![MVTec Anomaly Detection](reports/report_3/figures/overview_image.png)](link-to-your-repo)
 
-**Team Members:**
-- [Giuseppe Rumore](https://github.com/pepperumo)
-- [Micaela Wuensche](https://github.com/miwue-DT42)
-- [Majid Jafari](https://github.com/MajJef)
   
 ## 📌 Project Overview
 This project aims to implement **anomaly detection** using the **MVTec Anomaly Detection Dataset**. It applies various machine learning and deep learning techniques, including **ResNet50 feature extraction**, **KNN-based anomaly scoring**, **Autoencoder**, and **synthetic data generation** to improve model performance.
@@ -132,6 +132,10 @@ You can download the dataset directly from the [official MVTec website](https://
 ## 📌 References
 - Liu, J., Xie, G., Wang, J., Li, S., Wang, C., Zheng, F., & Jin, Y. (2023). Deep Industrial Image Anomaly Detection: A Survey. Springer Nature. [arXiv:2301.11514].
 - Yang, J., Shi, Y., & Qi, Z. (2020). DFR: Deep Feature Reconstruction for Unsupervised Anomaly Segmentation. [arXiv:2012.07122].
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/giuseppe-rumore-b2599961
 - Bühler, J., Fehrenbach, J., Steinmann, L., Nauck, C., & Koulakis, M. (2024). Domain-independent detection of known anomalies. Karlsruhe Institute of Technology (KIT) & preML GmbH. [arXiv:2407.02910].
 - Rippel, O., Mertens, P., & Merhof, D. (2020). Modeling the Distribution of Normal Data in Pre-Trained Deep Features for Anomaly Detection. RWTH Aachen University. [arXiv:2005.14140].
 - Bergmann, P., Fauser, M., Sattlegger, D., & Steger, C. (2019). MVTec AD – A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection. MVTec Software GmbH. www.mvtec.com.
